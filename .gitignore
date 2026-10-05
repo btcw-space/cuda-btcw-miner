@@ -1,0 +1,7 @@
+/release/
+target.txt
+*.o
+*.obj
+*.exp
+*.lib
+*.pdb
